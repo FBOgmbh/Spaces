@@ -16,23 +16,14 @@
 ## Usage
 
 --var(space-xxxs)
-
 --var(space-xxs)
-
 --var(space-xs)
-
 --var(space-s)
-
 --var(space-ms)
-
 --var(space-m)
-
 --var(space-l)
-
 --var(space-xl)
-
 --var(space-xxl)
-
 --var(space-xxxl)
 
 ## Example
