@@ -28,7 +28,7 @@
 ```
 
 ## Example
-
+```css
 .element {
   padding: --var(space-xxxs)
-}
+}```
