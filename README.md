@@ -16,16 +16,16 @@
 ## Usage
 
 ```css
---var(space-xxxs)
---var(space-xxs)
---var(space-xs)
---var(space-s)
---var(space-ms)
---var(space-m)
---var(space-l)
---var(space-xl)
---var(space-xxl)
---var(space-xxxl)
+--var(spaces-xxxs)
+--var(spaces-xxs)
+--var(spaces-xs)
+--var(spaces-s)
+--var(spaces-ms)
+--var(spaces-m)
+--var(spaces-l)
+--var(spaces-xl)
+--var(spaces-xxl)
+--var(spaces-xxxl)
 ```
 
 ## Example
