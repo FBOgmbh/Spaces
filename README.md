@@ -15,7 +15,8 @@
 
 ## Usage
 
-```--var(space-xxxs)
+```css
+--var(space-xxxs)
 --var(space-xxs)
 --var(space-xs)
 --var(space-s)
