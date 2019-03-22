@@ -13,6 +13,8 @@
 | xxl                     |   48  |    54  |    64   |    76   |    96   |
 | xxxl                    |   54  |    64  |    76   |    96   |   128   |
 
+![Spaces Graph](https://fbogmbh.github.io/Spaces/img/spaces-graph.png)
+
 ## Usage
 
 ```css
