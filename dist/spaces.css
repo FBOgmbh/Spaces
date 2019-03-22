@@ -1,0 +1,52 @@
+:root {
+  --spaces-xxxs: .25rem;
+  --spaces-xxs: .5rem;
+  --spaces-xs: .75rem;
+  --spaces-s: 1rem;
+  --spaces-ms: 1.5rem;
+  --spaces-m: 2rem;
+  --spaces-l: 2.25rem;
+  --spaces-xl: 2.625rem;
+  --spaces-xxl: 3rem;
+  --spaces-xxxl: 3.375rem;
+}
+
+@media ( min-width: 768px ) {
+  :root {
+    --spaces-m: 2.25rem;
+    --spaces-l: 2.625rem;
+    --spaces-xl: 3.375rem;
+    --spaces-xxl: 4rem;
+    --spaces-xxxl: 4.75rem;
+  }
+}
+
+@media ( min-width: 1024px ) {
+  :root {
+    --spaces-m: 2.25rem;
+    --spaces-l: 2.625rem;
+    --spaces-xl: 3.375rem;
+    --spaces-xxl: 4rem;
+    --spaces-xxxl: 4.75rem;
+  }
+}
+
+@media ( min-width: 1440px ) {
+  :root {
+    --spaces-m: 2.25rem;
+    --spaces-l: 3rem;
+    --spaces-xl: 4rem;
+    --spaces-xxl: 4.75rem;
+    --spaces-xxxl: 6rem;
+  }
+}
+
+@media ( min-width: 1920px ) {
+  :root {
+    --spaces-m: 2.625rem;
+    --spaces-l: 3.375rem;
+    --spaces-xl: 4.75rem;
+    --spaces-xxl: 6rem;
+    --spaces-xxxl: 8rem;
+  }
+}
