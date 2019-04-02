@@ -15,6 +15,10 @@
 
 ![Spaces Graph](https://fbogmbh.github.io/Spaces/img/spaces-graph.png)
 
+## Installation
+
+`bower install spaces --save`
+
 ## Usage
 
 ```css
