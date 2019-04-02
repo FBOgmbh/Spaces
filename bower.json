@@ -1,0 +1,22 @@
+{
+  "name": "spaces",
+  "homepage": "https://github.com/FBOgmbh/Spaces",
+  "authors": [
+    "Ralf Hortt"
+  ],
+  "description": "A responsive spacing system",
+  "main": [
+    "./dist/spaces.css"
+  ],
+  "keywords": [
+    "spacing"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
