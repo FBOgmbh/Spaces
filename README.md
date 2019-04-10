@@ -17,7 +17,17 @@
 
 ## Installation
 
-`bower install spaces --save`
+Install via `npm`, `yarn` or `bower`
+
+```
+$ npm install @fbo/spaces
+```
+```
+$ yarn add @fbo/spaces
+```
+```
+$ bower install spaces
+```
 
 ## Usage
 

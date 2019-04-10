@@ -1,0 +1,10 @@
+{
+  "name": "@fbo/spaces",
+  "version": "1.0.0",
+  "description": "A spacing library using custom properties",
+  "main": "./dist/spaces.css",
+  "repository": "https://github.com/FBOgmbh/Spaces.git",
+  "author": "FBO GmbH <technik@fbo.de>",
+  "license": "MIT",
+  "private": false
+}
